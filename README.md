@@ -53,7 +53,7 @@ ADDITIONAL ELECTIONS
 ==================================
 
 For reference, here are all of the primary and general elections from 2012-2022.
-(this does not include special elections).
+(the listing below does not include special elections, although those can also be configured in your file)
 
 ```
 08/14/2012,P2012
