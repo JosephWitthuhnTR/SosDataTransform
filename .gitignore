@@ -1,4 +1,9 @@
 .gradle
 .idea
+build/classes
+build/generated
+build/libs
+build/scripts
+build/tmp
 input
 output
