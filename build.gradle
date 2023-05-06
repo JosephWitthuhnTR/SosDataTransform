@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'net.joewitthuhn'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.apache.poi:poi-ooxml:5.2.3'
+    implementation 'org.apache.logging.log4j:log4j-core:2.19.0'
+}
+
+application {
+    mainClass.set('net.joewitthuhn.sosdatatransform.SosDataTransform')
+}
