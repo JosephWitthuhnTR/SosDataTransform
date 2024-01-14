@@ -52,7 +52,7 @@ If the files are empty or missing, no filter will be applied.
 ADDITIONAL ELECTIONS
 ==================================
 
-For reference, here are all of the primary and general elections from 2012-2022.
+For reference, here are all of the primary and general elections from 2012-2023.
 (the listing below does not include special elections, although those can also be configured in your file)
 
 ```
@@ -74,4 +74,5 @@ For reference, here are all of the primary and general elections from 2012-2022.
 11/02/2021,G2021
 08/09/2022,P2022
 11/08/2022,G2022
+11/07/2023,G2023
 ```
